@@ -8,6 +8,6 @@ Un blog realizado con el [ curso de Git y Github](https://platzi.com/cursos/git-
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
+* Y como Bonus esta este tipo FREDDY VEGA tiene un estilo único de enseñar! En realidad explica muy Bien
 
-Por último te recomiendo: seguir este curso en [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+Por último te recomiendo: seguir este curso en [**ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
