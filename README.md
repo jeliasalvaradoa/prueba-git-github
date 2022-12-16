@@ -1,6 +1,6 @@
 # Mi Blog 💚
 Un blog realizado con el [ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> El curso de Git y Github de Platzi es lo que me hacía falta para aprender a usar estas dos excelentes herramientas de la que hacen uso los grandes desarroladores
+> El curso de Git y Github de Platzi es lo que me hacía falta para aprender a usar estas dos excelentes herramientas de la que hacen uso los grandes desarrolladores
 > - HolaMundo
 
 ## En este curso vemos de todo
